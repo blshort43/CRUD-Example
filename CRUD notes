@@ -1,0 +1,24 @@
+Todo List
+
+1 user
+1 list
+
+node
+express
+handlebars
+sequelize
+mysql
+method-override
+body-parser
+
+C - create, insert - POST - /todos/ - adds a todo
+R - read, GET - /todos/ - grabs all todos
+U - update - PUT/PATCH - /todo/:id - updates a todo
+D - delete - DELETE - /todo/:id - deletes specific todo with id
+
+
+method-override:  HTML is limited to - GET/POST
+
+Restful:
+/dogs/ - all dogs
+/dogs/2 - show dog with id 2
